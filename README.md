@@ -3,11 +3,10 @@
 - 💻 I'm an Android Developer with 3+ years of experience
 - 🔧 Passionate about Jetpack Compose, Kotlin, MVVM, and building scalable mobile apps
 - 🚀 Constantly learning and exploring new tools, libraries, and APIs
-- 🌍 Based in [Your City], open to collaboration and freelance work
+- 🌍 Based in Delhi IN, open to collaboration and freelance work
 
----
 
-### 🛠️ Things I code with
+
 
 ### 🛠️ Things I code with
 
@@ -69,5 +68,5 @@
 
 ### 📫 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-sazaid-84325a194)
 
