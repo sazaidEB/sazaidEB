@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Mohammad Sazaid!
 
-- 💻 I'm an Android Developer with 3+ years of experience
+- 💻 I'm a Mobile App Developer with 3+ years of experience
 - 🔧 Passionate about Jetpack Compose, Kotlin, MVVM, and building scalable mobile apps
 - 🚀 Constantly learning and exploring new tools, libraries, and APIs
 - 🌍 Based in Delhi IN, open to collaboration and freelance work
