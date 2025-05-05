@@ -20,9 +20,6 @@
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="40" alt="Android" />
 
-  <!-- Jetpack Compose -->
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" height="30" alt="Jetpack Compose" />
-
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" alt="Flutter" />
 
