@@ -11,12 +11,11 @@
 ### 🛠️ Things I code with
 
 <p align="left">
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
 
   <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40" alt="Kotlin" />
-
+ <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
   <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="40" alt="Android" />
 
